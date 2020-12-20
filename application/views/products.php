@@ -23,7 +23,7 @@
 <body>
 
 <header class="text-center">
-  <h1 class="text-primary">Codeigniter 3.x.x multi column filter</h1>
+  <h1 class="text-primary">Codeigniter 3.x.x multi column filter.</h1>
   <p class="text-danger">Filter data without refresh the page and easy to pagination with filtered data</p> 
 </header>
 
